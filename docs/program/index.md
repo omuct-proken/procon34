@@ -1,5 +1,7 @@
 # プログラムの仕様
 
+OpenSiv3D v0.6.10 を利用しています。
+
 ## モジュール
 
 - [Visualizer](module_visualizer/index.md)
